@@ -1,2 +1,2 @@
 # workflow-testing
-Testing workflows with github actions
+Testing av arbeidsflytar med GitHub Actions
